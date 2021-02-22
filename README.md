@@ -1,1 +1,1 @@
-https://onetribeyoyo.github.io/tibetian-rites/
+# tibetian-rites
