@@ -60,7 +60,7 @@ section {
 /* blackboard style */
 body {
    background-color: #2b2b2b; /* gray17 */
-   background: white url("/Users/amiller/images/page-background.png") repeat;
+   background: white url("page-background.png") repeat;
    color: #a3a3a3; /* gray64 */
 }
 
